@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Akarsh J.<br><br>🎓 Final-year Computer Science and Engineering student (almost there, wish me luck!).<br>💻 I enjoy coding, tinkering with AI, and working on projects that actually help people.<br>🩺 Currently working on a Visual Question Answering (VQA) system to assist visually impaired individuals<br>🌱 Constantly improving my Python and machine learning skills while exploring new ways to innovate.
+Hey there! I’m Akarsh J.<br>💻 I enjoy coding, tinkering with AI, and working on projects that actually help people.<br>🩺 Currently working on a Visual Question Answering (VQA) system to assist visually impaired individuals<br>🌱 Constantly improving my Python and machine learning skills while exploring new ways to innovate.
 
 
 ## 🌐 Socials:
